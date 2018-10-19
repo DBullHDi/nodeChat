@@ -1,0 +1,10 @@
+# files that need to be ignored
+
+# node Dependencies
+node_modules
+
+# dev.json
+
+app/config/development.json
+
+/.idea
